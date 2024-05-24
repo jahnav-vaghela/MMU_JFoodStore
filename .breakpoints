@@ -1,0 +1,32 @@
+{
+  "files": {
+    "MenuConsole.java": [
+      {
+        "id": "3aa23c2b-6f4f-49f8-9ba2-1ffd2b13d003",
+        "line": 50,
+        "version": 726,
+        "index": 1499
+      }
+    ],
+    "Server/controller/StaticHandler.java": [
+      {
+        "id": "55c8944f-57a4-440d-aa1b-dd9d9943a8df",
+        "line": 21,
+        "version": 550,
+        "index": 539
+      },
+      {
+        "id": "919adfc2-33a0-4504-8700-ddd47fec6d6d",
+        "line": 25,
+        "version": 550,
+        "index": 614
+      },
+      {
+        "id": "f73f24cf-e021-4f5a-97fd-41190c76e95d",
+        "line": 28,
+        "version": 550,
+        "index": 700
+      }
+    ]
+  }
+}
